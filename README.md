@@ -1,1 +1,1 @@
-![Class Diagram][[https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java102/advgame-7/figures/class-diagram.jpg]](https://github.com/ramazanbozkurtt1/adventureGame/blob/master/class-diagram.jpg)
+![Class Diagram][[[https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/java102/advgame-7/figures/class-diagram.jpg]](https://github.com/ramazanbozkurtt1/adventureGame/blob/master/class-diagram.jpg)](https://github.com/ramazanbozkurtt1/adventureGame/blob/master/class-diagram.jpg)
